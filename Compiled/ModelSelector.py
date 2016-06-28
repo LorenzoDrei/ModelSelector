@@ -77,11 +77,11 @@ def getFileName():
         applySelection("bullsquid.mdl")
         applySelection("bullsquid01.mdl")
     if bull_c.get():
-        applySelection("bullchik.mdl")
-        applySelection("bullchik01.mdl")
+        applySelection("bullsquid-chik.mdl")
+        applySelection("bullsquid01-chik.mdl")
+
 
 #******GRAPHICS*****
-
 #Tk init
 window = Tk()
 window.geometry("300x300")
@@ -154,5 +154,4 @@ applyChanges.grid(row = 8, column = 0)
 
 #MainLoop
 window.mainloop()
-
 #***END_GRAPHICS***

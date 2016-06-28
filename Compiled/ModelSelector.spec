@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['ModelSelector.py'],
-             pathex=['C:\\Users\\loren\\Desktop\\ModelSelector\\Compiled'],
+             pathex=['E:\\Sources\\GitHubRepo\\ModelSelector\\Compiled'],
              binaries=None,
              datas=None,
              hiddenimports=[],

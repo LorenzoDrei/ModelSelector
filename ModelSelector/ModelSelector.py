@@ -77,8 +77,8 @@ def getFileName():
         applySelection("bullsquid.mdl")
         applySelection("bullsquid01.mdl")
     if bull_c.get():
-        applySelection("bullchik.mdl")
-        applySelection("bullchik01.mdl")
+        applySelection("bullsquid-chik.mdl")
+        applySelection("bullsquid01-chik.mdl")
 
 
 #******GRAPHICS*****
